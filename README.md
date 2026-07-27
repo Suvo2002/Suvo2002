@@ -12,11 +12,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suvo2002&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🏆 Trophies / Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suvo2002&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ## 📈 Contribution Activity Graph
 
