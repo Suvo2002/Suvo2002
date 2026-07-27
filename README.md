@@ -1,9 +1,9 @@
-# Hi there 
+# Hi there 👋
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suvo2002&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Suvo2002&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 ## 🔥 Streak Stats
@@ -15,7 +15,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvo2002&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suvo2002&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🏆 Trophies / Badges
